@@ -1,9 +1,9 @@
 # School_District_Analysis
 Using Python within an Anaconda dev environment
 ## Overview
-Welcome to making a difference in the lives of children belonging to PyCitySchools. In this challenge, we will be helping Maria, who has been employed by the school board to analyze student performance, in order to improve learning. After cleaning and merging our two data sets, we will run an analysis to drive insight and make recommendations on how to improve education in PyCity.  
+Not all data sets come with impeccable integrity. In this challenge, we have been informed that the data sets we are using to analyze student performance within PyCitySchools have been tampered with. We will be helping Maria, who has been employed by the school board as a data scientist, with removing the compromised data. We will then identify the differences between our analysis before and after cleaning the data. 
 ## Results
--
+- 
 -
 -
 -
@@ -12,7 +12,7 @@ Welcome to making a difference in the lives of children belonging to PyCitySchoo
 -
 
 ## Summary
-1
-2
-3
-4
+### Change 1
+### Change 2
+### Change 3
+### Change 4
